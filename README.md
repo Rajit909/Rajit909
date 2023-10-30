@@ -1,7 +1,7 @@
 ### Hi there 🌸
 
 <!--
-**shrankhla20/shrankhla20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Rajit-kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,26 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- <p align="center"><img src="https://github-hero-readme.vercel.app/api?username=arpanaditya&linkedin=arpan-aditya&twitter=adityaa_sahoo" href="https://linktr.ee/arpanaditya"/> 
+<!-- <p align="center"><img src="https://github-hero-readme.vercel.app/api?username=rajitkumar&linkedin=rajitkumar&twitter=rajitkumar" href="https://linktr.ee/"/> 
 -->
 
+<!--
 - Pronouns: She/her
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=shrankhla20&label=Profile%20views&color=0e75b6&style=flat" alt="shrankhla20" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rajitkumar&label=Profile%20views&color=0e75b6&style=flat" alt="rajit" /> </p>
 
----
+--->
 
 <h2 align="center">My Socials :handshake: </h2>
 <p align="center">
-<a href="https://twitter.com/shrankhla3">
+<a href="https://twitter.com/">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/social/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
 </a>
 <a href="https://linkedin.com/in/shrankhla-srivastava-igdtuw/">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/social/linkedin.svg" alt="Linkedin" style="vertical-align:top; margin:4px">
 </a>
-<a href="https://instagram.com/shrankhla_srivastava">
+<a href="https://instagram.com/">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/social/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
 </a>
-<a href="mailto:shrankhla.srivastava@gmail.com">
+<a href="mailto:krajit909@gmail.com">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/social/gmail.svg" alt="GMail" style="vertical-align:top; margin:4px">
 </a>
 </p>
@@ -84,7 +85,7 @@ Here are some ideas to get you started:
 
 ---
 
-[![Shrankhla's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrankhla20&hide=prs,issues&theme=gruvbox)](https://github.com/shrankhla20/github-readme-stats)
+[![Rajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrankhla20&hide=prs,issues&theme=gruvbox)](https://github.com/shrankhla20/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrankhla20&layout=compact&theme=gruvbox)](https://github.com/shrankhla20/github-readme-stats)
 
 
