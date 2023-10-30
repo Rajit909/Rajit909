@@ -89,6 +89,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajit909&layout=compact&theme=gruvbox)](https://github.com/rajit909/github-readme-stats)
 
 
-<p align="center"> <img src="https://github.com/shrankhla20/shrankhla20/blob/output/github-contribution-grid-snake.gif" width="700" /> </p>
+<p align="center"> <img src="https://github.com/rajit909/blob/output/github-contribution-grid-snake.gif" width="700" /> </p>
 
 <h3 align="center">Thank you for being here. Would love to interact😃 </h3>
