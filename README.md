@@ -87,8 +87,8 @@ Here are some ideas to get you started:
 
 
 [![Rajit's GitHub stats](https://github-readme-stats-six-liart-89.vercel.app/api?username=rajit909&hide=prs,issues&theme=gruvbox)](https://github.com/rajit909/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajit909&layout=compact&theme=gruvbox)](https://github.com/rajit909/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajit909&layout=compact)](https://github.com/rajit909/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center"> <img src="https://github.com/rajit909/blob/output/github-contribution-grid-snake.gif" width="700" /> </p>
 
