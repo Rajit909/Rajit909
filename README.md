@@ -1,98 +1,125 @@
-### Hi there 🎉
+<div align="center">
 
-<!--
-**Rajit-kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rajit%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Developer%20%7C%20Problem%20Solver%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descSize=16"/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- <p align="center"><img src="https://github-hero-readme.vercel.app/api?username=rajitkumar&linkedin=rajitkumar&twitter=rajitkumar" href="https://linktr.ee/"/> 
--->
-
-<!--
-- Pronouns: She/her
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rajitkumar&label=Profile%20views&color=0e75b6&style=flat" alt="rajit" /> </p>
-
---->
-
-<h2 align="center">My Socials :handshake: </h2>
-<p align="center">
-<a href="https://twitter.com/">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/social/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Java+%7C+Python+%7C+React+Dev+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%8C%9F;Always+Learning+New+Things+%F0%9F%8C%B1" alt="Typing SVG" />
 </a>
-<a href="https://linkedin.com/in/shrankhla-srivastava-igdtuw/">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/social/linkedin.svg" alt="Linkedin" style="vertical-align:top; margin:4px">
-</a>
-<a href="https://instagram.com/">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/social/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
-</a>
-<a href="mailto:krajit909@gmail.com">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/social/gmail.svg" alt="GMail" style="vertical-align:top; margin:4px">
-</a>
+
+<br/>
+
+<!-- Profile Views & Followers -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=rajit909&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/rajit909?label=Followers&style=for-the-badge&color=0e75b6" alt="Followers"/>
 </p>
 
-
-
----
-<!-- Badges used from https://github.com/klaasnicolaas/ColoredBadges -->
-<h2 align="center">My Tech Stack 🧰</h2>
-<p align="center">
-<a href="#">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/java.svg">
-</a>
-<a href="#">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/python.svg">
-</a>
-<a href="#">
-    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/html.svg">
-</a>
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/css3.svg">
-</a>
-<a href="https://reactjs.org">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-</a>
-</p>
+</div>
 
 ---
 
-<h2 align="center">My Tools :gear: </h2>
-<p align="center">
-<a href="https://git-scm.com">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/tools/git.svg" alt="git" style="vertical-align:top; margin:4px">
-</a>
-<a href="https://github.com/shrankhla20">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/services/github.svg" alt="github" style="vertical-align:top; margin:4px">
-</a>
-<a href="https://code.visualstudio.com/">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-</a>
- <a href="#">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/services/google_cloud_platform.svg" alt="google_cloud_platform" style="vertical-align:top; margin:4px">
-</a>
- <a href="#">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/jetbrains_pycharm.svg" alt="jetbrains_pycharm" style="vertical-align:top; margin:4px">
-</a>
-</p>
+## 👨‍💻 About Me
+
+```yaml
+name: Rajit Kumar
+location: India 🇮🇳
+current_focus: Full Stack Development
+learning: Cloud Architecture & System Design
+hobbies: [Coding, Open Source, Problem Solving]
+fun_fact: I debug code with coffee ☕ and determination 💪
+```
 
 ---
 
+## 🤝 Connect With Me
 
-[![Rajit's GitHub stats](https://github-readme-stats-six-liart-89.vercel.app/api?username=rajit909&hide=prs,issues&theme=gruvbox)](https://github.com/rajit909/github-readme-stats)
-[![Top Langs](https://github-readme-stats-six-liart-89.vercel.app/api/top-langs/?username=rajit909)](https://github.com/rajit909/github-readme-stats)
+<div align="center">
 
-<p align="center"> <img src="https://github.com/rajit909/blob/output/github-contribution-grid-snake.gif" width="700" /> </p>
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shrankhla-srivastava-igdtuw/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krajit909@gmail.com)
 
-<h3 align="center">Thank you for being here. Would love to interact😃 </h3>
+</div>
 
+---
 
+## 🛠️ Tech Stack
 
+<div align="center">
 
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### 🚀 Frameworks & Libraries
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats-six-liart-89.vercel.app/api?username=rajit909&show_icons=true&theme=tokyonight&hide=prs,issues&include_all_commits=true&count_private=true&border_radius=10" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajit909&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
+
+</div>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats-six-liart-89.vercel.app/api/top-langs/?username=rajit909&theme=tokyonight&layout=compact&border_radius=10&langs_count=8" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=rajit909&theme=tokyo-night&hide_border=true&border_radius=10" alt="Contribution Graph"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajit909/rajit909/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajit909/rajit909/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rajit909/rajit909/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rajit909&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+### 💬 *"First, solve the problem. Then, write the code."*
+
+**Thank you for visiting my profile! Let's connect and build something amazing together 😃**
+
+</div>
